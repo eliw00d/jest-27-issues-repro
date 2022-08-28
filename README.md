@@ -1,3 +1,3 @@
-# jest-27-issues-repro
+# jest-mocking-node-modules-repro
 
-`yarn jest` to see the one test fail and the other pass.
+`yarn test-##` where `##` is the major version of Jest to test. For example, `yarn test-26` to see when this feature worked or `yarn test-27` to see when this feature broke.
